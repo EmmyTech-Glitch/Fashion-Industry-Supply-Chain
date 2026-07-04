@@ -10,7 +10,7 @@ This project delivers a comprehensive, data-driven optimization solution for man
 Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
 ## Supplier Performance Analysis:
-![ Supplier Performance Analysis]( supply_chain_dashboard_2.png)
+![ Supplier Performance Analysis]( supplier_performance.png)
 Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
 
 # Technical Methodology & Data Pipeline
