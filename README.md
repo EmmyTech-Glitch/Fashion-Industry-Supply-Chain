@@ -33,7 +33,7 @@ Column Profiling: Checked distribution and error rates to guarantee zero null ro
 ## Dashboard Design & Visualization in Power BI
 The data modeling phase used tailored DAX measures to calculate critical KPIs. The frontend visual style features custom-designed rectangular container tiles, sharp typographic hierarchy, and a clean blue-and-white workspace theme. Key UI components include horizontal top-bar filter buttons for dynamic location slicing (Bangalore, Chennai, Delhi, Kolkata, Mumbai) and shipping modes (Air, Rail, Road, Sea).
 
-3. Deep-Dive Dashboard Analysis
+### Deep-Dive Dashboard Analysis.
 Page 1: Supply Chain Analytics Performance
 This view provides a macro commercial assessment of sales performance, product pricing structures, and regional sales contributions.
 
