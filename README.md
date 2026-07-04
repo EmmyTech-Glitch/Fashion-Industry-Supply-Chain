@@ -10,7 +10,7 @@ This project delivers a comprehensive, data-driven optimization solution for man
 Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
 ## Supplier Performance Analysis:
-![ Supplier Performance Analysis]( supply_chain_dashboard.png_2)
+![ Supplier Performance Analysis]( supply_chain_dashboard_2.png)
 Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
 
 # Technical Methodology & Data Pipeline
@@ -36,7 +36,9 @@ Column Profiling: Checked distribution and error rates to guarantee zero null ro
 The data modeling phase used tailored DAX measures to calculate critical KPIs. The frontend visual style features custom-designed rectangular container tiles, sharp typographic hierarchy, and a clean blue-and-white workspace theme. Key UI components include horizontal top-bar filter buttons for dynamic location slicing (Bangalore, Chennai, Delhi, Kolkata, Mumbai) and shipping modes (Air, Rail, Road, Sea).
 
 ### Deep-Dive Dashboard Analysis.
+
 Page 1: Supply Chain Analytics Performance
+![Supply Chain Analytics Performance](supply_chain_dashboard.png)
 This view provides a macro commercial assessment of sales performance, product pricing structures, and regional sales contributions.
 
 Macro Key Performance Indicators (KPIs):
@@ -60,6 +62,7 @@ Demographic Market Segmentation: A pie chart indicates that the "Unknown" custom
 Quality Risk & Pricing Models: The inspection donut chart reveals that 38.89% (108 cases) of batches are marked as Pass, while 21.58% (60 cases) have Pending statuses. Concurrently, the Average Price line chart indicates that Cosmetics hold the highest premium cost point at $57.81, contrasting with Haircare at $46.56.
 
 Page 2: Supplier Performance Analysis
+![ Supplier Performance Analysis]( supply_chain_dashboard_2.png)
 This page evaluates supply chain back-end operational workflows, exposing logistics constraints, carrier speeds, and manufacturing bottlenecks.
 
 Fulfillment Logistics & Operations:
