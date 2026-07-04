@@ -5,9 +5,11 @@ This project delivers a comprehensive, data-driven optimization solution for man
 
 # The dashboard is structured into two main analytical focus areas:
 
-#Supply Chain Analytics Performance: Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
+## Supply Chain Analytics Performance: 
+Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
-#Supplier Performance Analysis: Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
+## Supplier Performance Analysis:
+Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
 
 # Technical Methodology & Data Pipeline
 Phase 1: Database Ingestion & SQL Querying
@@ -33,9 +35,9 @@ This project delivers a comprehensive, data-driven optimization solution for man
 
 The dashboard is structured into two main analytical focus areas:
 
-Supply Chain Analytics Performance (Screenshot (30).jpg): Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
+Supply Chain Analytics Performance: Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
-Supplier Performance Analysis (Screenshot (31).jpg): Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
+Supplier Performance Analysis: Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
 
 2. Technical Methodology & Data Pipeline
 Phase 1: Database Ingestion & SQL Querying
@@ -60,7 +62,7 @@ Phase 3: Dashboard Design & Visualization in Power BI
 The data modeling phase used tailored DAX measures to calculate critical KPIs. The frontend visual style features custom-designed rectangular container tiles, sharp typographic hierarchy, and a clean blue-and-white workspace theme. Key UI components include horizontal top-bar filter buttons for dynamic location slicing (Bangalore, Chennai, Delhi, Kolkata, Mumbai) and shipping modes (Air, Rail, Road, Sea).
 
 3. Deep-Dive Dashboard Analysis
-Page 1: Supply Chain Analytics Performance (Screenshot (30).jpg)
+Page 1: Supply Chain Analytics Performance
 This view provides a macro commercial assessment of sales performance, product pricing structures, and regional sales contributions.
 
 Macro Key Performance Indicators (KPIs):
@@ -83,7 +85,7 @@ Demographic Market Segmentation: A pie chart indicates that the "Unknown" custom
 
 Quality Risk & Pricing Models: The inspection donut chart reveals that 38.89% (108 cases) of batches are marked as Pass, while 21.58% (60 cases) have Pending statuses. Concurrently, the Average Price line chart indicates that Cosmetics hold the highest premium cost point at $57.81, contrasting with Haircare at $46.56.
 
-Page 2: Supplier Performance Analysis (Screenshot (31).jpg)
+Page 2: Supplier Performance Analysis
 This page evaluates supply chain back-end operational workflows, exposing logistics constraints, carrier speeds, and manufacturing bottlenecks.
 
 Fulfillment Logistics & Operations:
@@ -97,7 +99,7 @@ Transportation Mode Share & Financial Impact: Road freight handles the maximum p
 Supplier Lead Times & Transit Speeds: The treemap graphic illustrates that Supplier 1 (453 days total accumulated lead time) and Supplier 2 (357 days) require the longest operational windows. Conversely, the line chart demonstrates that Air shipping incurs the longest average lead time profile (18.27 days), while Sea routes are optimized down to an average of 12.18 days.
 
 4. Operational Recommendations & Next Steps
-Based on the explicit data correlations revealed across Screenshot (30).jpg and Screenshot (31).jpg, the following operational strategies are recommended:
+Based on the explicit data correlations revealed above, the following operational strategies are recommended:
 
 Reallocate Inventory from Kolkata to Mumbai:
 Kolkata holds your highest stock level (1,439 units) but lags in revenue. Mumbai produces the highest revenue ($137,766) on a smaller stock footprint. Moving excess warehouse inventory to Mumbai will maximize stock turnover and reduce localized holding costs.
@@ -106,12 +108,12 @@ Optimize Logistics Transit Modes:
 Rail cargo experiences severe delays (184 days/units) compared to other modes. Shift critical cosmetic and skincare batches to Sea or Air channels. While Air cargo takes slightly more lead time on average (18.27 days), Sea transit delivers the most optimal combination of rapid transit and lower cost variables.
 
 Audit High-Lead-Time Suppliers:
-Supplier 1 generates your highest revenue ($157,542) but suffers from extended lead times (453 days). Introduce more stringent Service Level Agreements (SLAs) or diversify order quantities toward Supplier 2 and Supplier 3 to mitigate supply disruptions during peak consumer demand cycles.1. Project Executive Summary
+Supplier 1 generates your highest revenue ($157,542) but suffers from extended lead times (453 days). Introduce more stringent Service Level Agreements (SLAs) or diversify order quantities toward Supplier 2 and Supplier 3 to mitigate supply disruptions during peak consumer demand cycles.
 This project delivers a comprehensive, data-driven optimization solution for managing retail product supply chains. Utilizing a technical pipeline consisting of SQL for database querying, Power Query for advanced ETL processing, and Power BI for visual storytelling, this interactive intelligence system transforms raw data into actionable tactical insights.
 
 The dashboard is structured into two main analytical focus areas:
 
-Supply Chain Analytics Performance (Screenshot (30).jpg): Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
+Supply Chain Analytics Performance: Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
 Supplier Performance Analysis (Screenshot (31).jpg): Deep dives into back-end operational logistics, carrier transit times, transportation modes, costs, and quality control.
 
