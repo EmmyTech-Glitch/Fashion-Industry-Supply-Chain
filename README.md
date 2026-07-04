@@ -6,8 +6,7 @@ This project delivers a comprehensive, data-driven optimization solution for man
 # The dashboard is structured into two main analytical focus areas:
 
 ## Supply Chain Analytics Performance:
-![Supply Chain Analytics Performance](powerbi_screenshot.png
-)
+![Supply Chain Analytics Performance](supply_chain_dashboard.png)
 Focuses on core commercial KPIs, sales velocity, geographical distribution, and revenue generation.
 
 ## Supplier Performance Analysis:
