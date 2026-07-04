@@ -62,7 +62,9 @@ Demographic Market Segmentation: A pie chart indicates that the "Unknown" custom
 Quality Risk & Pricing Models: The inspection donut chart reveals that 38.89% (108 cases) of batches are marked as Pass, while 21.58% (60 cases) have Pending statuses. Concurrently, the Average Price line chart indicates that Cosmetics hold the highest premium cost point at $57.81, contrasting with Haircare at $46.56.
 
 Page 2: Supplier Performance Analysis
-![ Supplier Performance Analysis]( supply_chain_dashboard_2.png)
+
+![ Supplier Performance Analysis]( supplier_performance.png)
+
 This page evaluates supply chain back-end operational workflows, exposing logistics constraints, carrier speeds, and manufacturing bottlenecks.
 
 Fulfillment Logistics & Operations:
